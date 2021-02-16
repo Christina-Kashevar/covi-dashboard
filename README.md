@@ -14,3 +14,4 @@ npm run build
 npm run dev
 ```
 
+[Deploy](https://christina-kashevar.github.io/covid-dashboard/dist/)
